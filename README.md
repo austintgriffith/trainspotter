@@ -11,4 +11,8 @@ A live transit map of where your machine sends data. Read-only.
 
 ## Status
 
-Nothing built yet.
+Nothing built yet. See [PLAN.md](PLAN.md).
+
+## License
+
+GPL-3.0. See [LICENSE](LICENSE).
